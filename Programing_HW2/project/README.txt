@@ -1,0 +1,1 @@
+This program will run by command, $pyhton main.py inputfilename.txt
